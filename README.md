@@ -1,10 +1,11 @@
 
+---
 
 # Par"king"
 
 Par"king" is a web platform designed to connect parking space owners with drivers searching for cost-effective parking solutions. The platform empowers owners to earn extra income by listing unused parking spaces while providing drivers with a seamless and affordable parking experience.
 
-![Par"king" Banner](./screenshot.png)
+![Par"king" Banner](./Frontend/public/parking.png)
 
 ## Key Features
 
@@ -102,8 +103,9 @@ Par"king" is a web platform designed to connect parking space owners with driver
 
 ## Screenshots
 
-![Parking Spot Listing](public/Parking_Spot_Listing.png)
-![User Profile](public/User_Profile.png)
-
+![Parking Spot Listing](./Frontend/public/owner.jpg)
+![Parking Seeker Profile](./Frontend/public/seeker.jpg)
+![Parking Spot Booking](./Frontend/public/book.png)
 
 ---
+
